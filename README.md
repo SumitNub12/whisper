@@ -24,7 +24,7 @@ Whisper is a secure and anonymous messaging platform where users can receive and
 ## 📦 Installation
 Clone the repository:
 ```sh
-git clone https://github.com/SumitNub12/whisper.gti
+git clone https://github.com/SumitNub12/whisper.git
 cd whisper
 ```
 
